@@ -1,0 +1,7 @@
+{
+  "name": "J'apprends à m'accorder",
+  "description": "Un accordeur en temps réel avec transposition automatique et instructions physiques pour les élèves de conservatoire.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
